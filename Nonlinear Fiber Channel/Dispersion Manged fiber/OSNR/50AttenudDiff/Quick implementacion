@@ -1,0 +1,73 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Jan 10 19:19:47 2020
+
+@author: chiefguti
+"""
+
+import os
+from sklearn.model_selection import train_test_split
+from sklearn.svm import SVC
+from sklearn.metrics import classification_report, confusion_matrix
+from sklearn import datasets
+from sklearn.model_selection import train_test_split
+from sklearn.model_selection import GridSearchCV , RandomizedSearchCV
+from sklearn.metrics import classification_report
+from scipy import stats
+from sklearn.ensemble import RandomForestClassifier
+import numpy as np 
+import matplotlib as plt
+
+def visualize_classifier(model, X, y,namef, ax=None, cmap='tab20b'):
+    ax = ax or plt.gca()
+ 
+
+
+    # Plot the training points
+    ax.scatter(X[:, 0], X[:, 1], c=y, marker='.', cmap=cmap,
+               clim=(y.min(), y.max()), zorder=3)
+    ax.axis('tight')
+    ax.axis('off')
+    xlim = ax.get_xlim()
+    ylim = ax.get_ylim()
+    
+    # fit the estimator
+    model.fit(X, y)
+    xx, yy = np.meshgrid(np.linspace(*xlim, num=500),
+                         np.linspace(*ylim, num=500))
+    Z = model.predict(np.c_[xx.ravel(), yy.ravel()]).reshape(xx.shape)
+
+    # Create a color plot with the results
+    n_classes = len(np.unique(y))
+    contours = ax.contourf(xx, yy, Z, alpha=0.3,
+                           levels=np.arange(n_classes + 1) - 0.5,
+                           cmap=cmap, clim=(y.min(), y.max()),
+                           zorder=1)
+
+    ax.set(xlim=xlim, ylim=ylim)
+    savefig(namef,dpi=300)
+    close()
+    
+    
+def NormData(DataSet,data):
+    for i in range(len(data[:,0])):
+        DataSet[i,0]=data[:,0][i]
+        DataSet[i,1]=data[:,1][i]
+    DataSet[:,0]=(DataSet[:,0]-min(DataSet[:,0]))/(max(DataSet[:,0])-min(DataSet[:,0]))
+    DataSet[:,1]=(DataSet[:,1]-min(DataSet[:,1]))/(max(DataSet[:,1])-min(DataSet[:,1]))
+def ColorMap(Word,Map,M):
+    Cmap=arange(M)
+    for i in range(len(Word)):
+        for j in range(len(Cmap)):
+            if(Word[i]==Org[j]):
+                Map[i]=Cmap[j]
+
+def BER(x,y):
+    j=0
+    for i in range(len(x)):
+        if(x[i]!=y[i]):
+            j+=1
+    return(j/len(x))
+    
+Code = np.loadtxt('PBRS.txt',skiprows=5)
