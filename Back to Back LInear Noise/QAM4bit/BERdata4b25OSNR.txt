@@ -1,0 +1,2076 @@
+Thu Nov 14 15:28:26 2019
+Modulation: MQAMGray16
+Run Number: 1
+GPRF:
+5024.32 -0.0652018
+0.0652018 5024.32
+Number Of Symbols: 32766
+Number Of Ignored Symbols: 2
+Number Of Errors: 4
+BER_MC: 3.05194e-05
+SER_MC: 0.000122078
+SER_Gauss: 2.57306e-113
+EVM: 0.0115081
+Metrics for symbol 1:
+S1 Ideal: -3 3
+S1 Mean: -2.97265 3.02656
+S1 Std: 5.79628e-07 0.0446649
+S1 Number Of Occurrences: 2042
+S1 Number Of Errors: 1
+S1 Occurrence Probability: 0.0623207
+S1 Error Probability: 3.3995e-117
+S1 Error Probability MC: 0.000489716
+S1 Error Vector Magnitude: 0.0138392
+Metrics for symbol 2:
+S2 Ideal: 3 3
+S2 Mean: 2.97273 3.02747
+S2 Std: 7.1072e-15 1.37702e-14
+S2 Number Of Occurrences: 2003
+S2 Number Of Errors: 0
+S2 Occurrence Probability: 0.0611304
+S2 Error Probability: 0
+S2 Error Probability MC: 0
+S2 Error Vector Magnitude: 0.0091238
+Metrics for symbol 3:
+S3 Ideal: -1 3
+S3 Mean: -0.990858 3.02752
+S3 Std: 8.66181e-15 1.51027e-14
+S3 Number Of Occurrences: 2088
+S3 Number Of Errors: 0
+S3 Occurrence Probability: 0.0637246
+S3 Error Probability: 0
+S3 Error Probability MC: 0
+S3 Error Vector Magnitude: 0.00917146
+Metrics for symbol 4:
+S4 Ideal: 1 3
+S4 Mean: 0.990936 3.0275
+S4 Std: 8.3287e-15 1.46585e-14
+S4 Number Of Occurrences: 2050
+S4 Number Of Errors: 0
+S4 Occurrence Probability: 0.0625649
+S4 Error Probability: 0
+S4 Error Probability MC: 0
+S4 Error Vector Magnitude: 0.00915593
+Metrics for symbol 5:
+S5 Ideal: -3 -3
+S5 Mean: -2.97273 -3.02747
+S5 Std: 5.33043e-15 1.37703e-14
+S5 Number Of Occurrences: 1966
+S5 Number Of Errors: 0
+S5 Occurrence Probability: 0.0600012
+S5 Error Probability: 0
+S5 Error Probability MC: 0
+S5 Error Vector Magnitude: 0.0091238
+Metrics for symbol 6:
+S6 Ideal: 3 -3
+S6 Mean: 2.97171 -3.02659
+S6 Std: 0.0431846 0.043981
+S6 Number Of Occurrences: 2106
+S6 Number Of Errors: 2
+S6 Occurrence Probability: 0.0642739
+S6 Error Probability: 2.0153e-112
+S6 Error Probability MC: 0.000949668
+S6 Error Vector Magnitude: 0.0171672
+Metrics for symbol 7:
+S7 Ideal: -1 -3
+S7 Mean: -0.990936 -3.0275
+S7 Std: 8.3287e-15 1.46585e-14
+S7 Number Of Occurrences: 2058
+S7 Number Of Errors: 0
+S7 Occurrence Probability: 0.062809
+S7 Error Probability: 0
+S7 Error Probability MC: 0
+S7 Error Vector Magnitude: 0.00915593
+Metrics for symbol 8:
+S8 Ideal: 1 -3
+S8 Mean: 0.990858 -3.02752
+S8 Std: 7.77352e-15 1.3326e-14
+S8 Number Of Occurrences: 1983
+S8 Number Of Errors: 0
+S8 Occurrence Probability: 0.0605201
+S8 Error Probability: 0
+S8 Error Probability MC: 0
+S8 Error Vector Magnitude: 0.00917146
+Metrics for symbol 9:
+S9 Ideal: -3 1
+S9 Mean: -2.97268 1.00921
+S9 Std: 1.19933e-14 1.39922e-14
+S9 Number Of Occurrences: 2088
+S9 Number Of Errors: 0
+S9 Occurrence Probability: 0.0637246
+S9 Error Probability: 0
+S9 Error Probability MC: 0
+S9 Error Vector Magnitude: 0.0091176
+Metrics for symbol 10:
+S10 Ideal: 3 1
+S10 Mean: 2.9727 1.00913
+S10 Std: 1.06607e-14 1.3548e-14
+S10 Number Of Occurrences: 2052
+S10 Number Of Errors: 0
+S10 Occurrence Probability: 0.0626259
+S10 Error Probability: 0
+S10 Error Probability MC: 0
+S10 Error Vector Magnitude: 0.00910198
+Metrics for symbol 11:
+S11 Ideal: -1 1
+S11 Mean: -0.990884 1.00918
+S11 Std: 8.88389e-15 1.39921e-14
+S11 Number Of Occurrences: 2113
+S11 Number Of Errors: 0
+S11 Occurrence Probability: 0.0644876
+S11 Error Probability: 0
+S11 Error Probability MC: 0
+S11 Error Vector Magnitude: 0.00914975
+Metrics for symbol 12:
+S12 Ideal: 1 1
+S12 Mean: 0.99091 1.00916
+S12 Std: 7.88455e-15 1.28818e-14
+S12 Number Of Occurrences: 2004
+S12 Number Of Errors: 0
+S12 Occurrence Probability: 0.061161
+S12 Error Probability: 0
+S12 Error Probability MC: 0
+S12 Error Vector Magnitude: 0.0091238
+Metrics for symbol 13:
+S13 Ideal: -3 -1
+S13 Mean: -2.9727 -1.00913
+S13 Std: 7.99561e-15 1.28818e-14
+S13 Number Of Occurrences: 1997
+S13 Number Of Errors: 0
+S13 Occurrence Probability: 0.0609473
+S13 Error Probability: 0
+S13 Error Probability MC: 0
+S13 Error Vector Magnitude: 0.00910198
+Metrics for symbol 14:
+S14 Ideal: 3 -1
+S14 Mean: 2.97174 -1.00921
+S14 Std: 0.0431846 5.60417e-07
+S14 Number Of Occurrences: 2106
+S14 Number Of Errors: 1
+S14 Occurrence Probability: 0.0642739
+S14 Error Probability: 1.98793e-112
+S14 Error Probability MC: 0.000474834
+S14 Error Vector Magnitude: 0.016576
+Metrics for symbol 15:
+S15 Ideal: -1 -1
+S15 Mean: -0.99091 -1.00916
+S15 Std: 8.3287e-15 1.3548e-14
+S15 Number Of Occurrences: 2058
+S15 Number Of Errors: 0
+S15 Occurrence Probability: 0.062809
+S15 Error Probability: 0
+S15 Error Probability MC: 0
+S15 Error Vector Magnitude: 0.0091238
+Metrics for symbol 16:
+S16 Ideal: 1 -1
+S16 Mean: 0.990884 -1.00918
+S16 Std: 8.3287e-15 1.3548e-14
+S16 Number Of Occurrences: 2052
+S16 Number Of Errors: 0
+S16 Occurrence Probability: 0.0626259
+S16 Error Probability: 0
+S16 Error Probability MC: 0
+S16 Error Vector Magnitude: 0.00914975
+Thu Nov 14 15:28:26 2019
+Modulation: MQAMGray16
+Run Number: 1
+GPRF:
+5070.31 0.0299856
+-0.0299856 5070.31
+Number Of Symbols: 32766
+Number Of Ignored Symbols: 2
+Number Of Errors: 1
+BER_MC: 7.62986e-06
+SER_MC: 3.05194e-05
+SER_Gauss: 3.91271e-116
+EVM: 0.00504893
+Metrics for symbol 1:
+S1 Ideal: -3 3
+S1 Mean: -2.98916 3.01093
+S1 Std: 9.77236e-15 1.42143e-14
+S1 Number Of Occurrences: 2042
+S1 Number Of Errors: 0
+S1 Occurrence Probability: 0.0623207
+S1 Error Probability: 0
+S1 Error Probability MC: 0
+S1 Error Vector Magnitude: 0.00362834
+Metrics for symbol 2:
+S2 Ideal: 3 3
+S2 Mean: 2.98912 3.01096
+S2 Std: 7.5514e-15 1.42144e-14
+S2 Number Of Occurrences: 2003
+S2 Number Of Errors: 0
+S2 Occurrence Probability: 0.0611304
+S2 Error Probability: 0
+S2 Error Probability MC: 0
+S2 Error Vector Magnitude: 0.00364017
+Metrics for symbol 3:
+S3 Ideal: -1 3
+S3 Mean: -0.996398 3.01094
+S3 Std: 7.77342e-15 1.42143e-14
+S3 Number Of Occurrences: 2088
+S3 Number Of Errors: 0
+S3 Occurrence Probability: 0.0637246
+S3 Error Probability: 0
+S3 Error Probability MC: 0
+S3 Error Vector Magnitude: 0.00364218
+Metrics for symbol 4:
+S4 Ideal: 1 3
+S4 Mean: 0.996362 3.01095
+S4 Std: 7.77346e-15 1.42143e-14
+S4 Number Of Occurrences: 2050
+S4 Number Of Errors: 0
+S4 Occurrence Probability: 0.0625649
+S4 Error Probability: 0
+S4 Error Probability MC: 0
+S4 Error Vector Magnitude: 0.00364925
+Metrics for symbol 5:
+S5 Ideal: -3 -3
+S5 Mean: -2.98912 -3.01096
+S5 Std: 5.33043e-15 1.42145e-14
+S5 Number Of Occurrences: 1966
+S5 Number Of Errors: 0
+S5 Occurrence Probability: 0.0600012
+S5 Error Probability: 0
+S5 Error Probability MC: 0
+S5 Error Vector Magnitude: 0.00364017
+Metrics for symbol 6:
+S6 Ideal: 3 -3
+S6 Mean: 2.98916 -3.01093
+S6 Std: 1.24375e-14 1.42142e-14
+S6 Number Of Occurrences: 2106
+S6 Number Of Errors: 0
+S6 Occurrence Probability: 0.0642739
+S6 Error Probability: 0
+S6 Error Probability MC: 0
+S6 Error Vector Magnitude: 0.00362834
+Metrics for symbol 7:
+S7 Ideal: -1 -3
+S7 Mean: -0.996362 -3.01095
+S7 Std: 7.99555e-15 1.42143e-14
+S7 Number Of Occurrences: 2058
+S7 Number Of Errors: 0
+S7 Occurrence Probability: 0.062809
+S7 Error Probability: 0
+S7 Error Probability MC: 0
+S7 Error Vector Magnitude: 0.00364925
+Metrics for symbol 8:
+S8 Ideal: 1 -3
+S8 Mean: 0.996398 -3.01094
+S8 Std: 7.55142e-15 1.37702e-14
+S8 Number Of Occurrences: 1983
+S8 Number Of Errors: 0
+S8 Occurrence Probability: 0.0605201
+S8 Error Probability: 0
+S8 Error Probability MC: 0
+S8 Error Vector Magnitude: 0.00364218
+Metrics for symbol 9:
+S9 Ideal: -3 1
+S9 Mean: -2.98915 1.00363
+S9 Std: 1.15491e-14 1.77678e-15
+S9 Number Of Occurrences: 2088
+S9 Number Of Errors: 0
+S9 Occurrence Probability: 0.0637246
+S9 Error Probability: 0
+S9 Error Probability MC: 0
+S9 Error Vector Magnitude: 0.0036192
+Metrics for symbol 10:
+S10 Ideal: 3 1
+S10 Mean: 2.98913 1.00367
+S10 Std: 9.77234e-15 1.55469e-15
+S10 Number Of Occurrences: 2052
+S10 Number Of Errors: 0
+S10 Occurrence Probability: 0.0626259
+S10 Error Probability: 0
+S10 Error Probability MC: 0
+S10 Error Vector Magnitude: 0.00362632
+Metrics for symbol 11:
+S11 Ideal: -1 1
+S11 Mean: -0.996386 1.00364
+S11 Std: 7.9955e-15 2.22097e-15
+S11 Number Of Occurrences: 2113
+S11 Number Of Errors: 0
+S11 Occurrence Probability: 0.0644876
+S11 Error Probability: 0
+S11 Error Probability MC: 0
+S11 Error Vector Magnitude: 0.00362834
+Metrics for symbol 12:
+S12 Ideal: 1 1
+S12 Mean: 0.996374 1.00365
+S12 Std: 7.66245e-15 1.1105e-15
+S12 Number Of Occurrences: 2004
+S12 Number Of Errors: 0
+S12 Occurrence Probability: 0.061161
+S12 Error Probability: 0
+S12 Error Probability MC: 0
+S12 Error Vector Magnitude: 0.00364017
+Metrics for symbol 13:
+S13 Ideal: -3 -1
+S13 Mean: -2.98913 -1.00367
+S13 Std: 7.10721e-15 1.1105e-15
+S13 Number Of Occurrences: 1997
+S13 Number Of Errors: 0
+S13 Occurrence Probability: 0.0609473
+S13 Error Probability: 0
+S13 Error Probability MC: 0
+S13 Error Vector Magnitude: 0.00362632
+Metrics for symbol 14:
+S14 Ideal: 3 -1
+S14 Mean: 2.9882 -1.00363
+S14 Std: 0.0434236 2.56805e-07
+S14 Number Of Occurrences: 2106
+S14 Number Of Errors: 1
+S14 Occurrence Probability: 0.0642739
+S14 Error Probability: 6.08755e-115
+S14 Error Probability MC: 0.000474834
+S14 Error Vector Magnitude: 0.0142728
+Metrics for symbol 15:
+S15 Ideal: -1 -1
+S15 Mean: -0.996374 -1.00365
+S15 Std: 7.99555e-15 1.55469e-15
+S15 Number Of Occurrences: 2058
+S15 Number Of Errors: 0
+S15 Occurrence Probability: 0.062809
+S15 Error Probability: 0
+S15 Error Probability MC: 0
+S15 Error Vector Magnitude: 0.00364017
+Metrics for symbol 16:
+S16 Ideal: 1 -1
+S16 Mean: 0.996386 -1.00364
+S16 Std: 7.66241e-15 1.55469e-15
+S16 Number Of Occurrences: 2052
+S16 Number Of Errors: 0
+S16 Occurrence Probability: 0.0626259
+S16 Error Probability: 0
+S16 Error Probability MC: 0
+S16 Error Vector Magnitude: 0.00362834
+Thu Nov 14 15:28:33 2019
+Modulation: MQAMGray16
+Run Number: 1
+GPRF:
+6489.47 -4.58317
+4.58317 6489.47
+Number Of Symbols: 32766
+Number Of Ignored Symbols: 2
+Number Of Errors: 0
+BER_MC: 0
+SER_MC: 0
+SER_Gauss: 0.0732359
+EVM: 0.223241
+Metrics for symbol 1:
+S1 Ideal: -3 3
+S1 Mean: -3.05581 2.95942
+S1 Std: 0.496605 0.395631
+S1 Number Of Occurrences: 2042
+S1 Number Of Errors: 0
+S1 Occurrence Probability: 0.0623207
+S1 Error Probability: 0.0242749
+S1 Error Probability MC: 0
+S1 Error Vector Magnitude: 0.1505
+Metrics for symbol 2:
+S2 Ideal: 3 3
+S2 Mean: 3.05956 2.96611
+S2 Std: 0.496409 0.406308
+S2 Number Of Occurrences: 2003
+S2 Number Of Errors: 0
+S2 Occurrence Probability: 0.0611304
+S2 Error Probability: 0.0249692
+S2 Error Probability MC: 0
+S2 Error Vector Magnitude: 0.152023
+Metrics for symbol 3:
+S3 Ideal: -1 3
+S3 Mean: -0.976764 2.88905
+S3 Std: 0.535739 0.312082
+S3 Number Of Occurrences: 2088
+S3 Number Of Errors: 0
+S3 Occurrence Probability: 0.0637246
+S3 Error Probability: 0.0642635
+S3 Error Probability MC: 0
+S3 Error Vector Magnitude: 0.199268
+Metrics for symbol 4:
+S4 Ideal: 1 3
+S4 Mean: 0.958862 2.9009
+S4 Std: 0.530432 0.330826
+S4 Number Of Occurrences: 2050
+S4 Number Of Errors: 0
+S4 Occurrence Probability: 0.0625649
+S4 Error Probability: 0.0631989
+S4 Error Probability MC: 0
+S4 Error Vector Magnitude: 0.200531
+Metrics for symbol 5:
+S5 Ideal: -3 -3
+S5 Mean: -3.03928 -2.98817
+S5 Std: 0.486325 0.426068
+S5 Number Of Occurrences: 1966
+S5 Number Of Errors: 0
+S5 Occurrence Probability: 0.0600012
+S5 Error Probability: 0.0263229
+S5 Error Probability MC: 0
+S5 Error Vector Magnitude: 0.152664
+Metrics for symbol 6:
+S6 Ideal: 3 -3
+S6 Mean: 3.0457 -2.95602
+S6 Std: 0.491739 0.392197
+S6 Number Of Occurrences: 2106
+S6 Number Of Errors: 0
+S6 Occurrence Probability: 0.0642739
+S6 Error Probability: 0.0239981
+S6 Error Probability MC: 0
+S6 Error Vector Magnitude: 0.148971
+Metrics for symbol 7:
+S7 Ideal: -1 -3
+S7 Mean: -0.994185 -3.08395
+S7 Std: 0.538498 0.490747
+S7 Number Of Occurrences: 2058
+S7 Number Of Errors: 0
+S7 Occurrence Probability: 0.062809
+S7 Error Probability: 0.0760584
+S7 Error Probability MC: 0
+S7 Error Vector Magnitude: 0.23187
+Metrics for symbol 8:
+S8 Ideal: 1 -3
+S8 Mean: 0.986148 -3.06426
+S8 Std: 0.537776 0.478657
+S8 Number Of Occurrences: 1983
+S8 Number Of Errors: 0
+S8 Occurrence Probability: 0.0605201
+S8 Error Probability: 0.0753106
+S8 Error Probability MC: 0
+S8 Error Vector Magnitude: 0.228555
+Metrics for symbol 9:
+S9 Ideal: -3 1
+S9 Mean: -3.17058 0.975551
+S9 Std: 0.535393 0.539895
+S9 Number Of Occurrences: 2088
+S9 Number Of Errors: 0
+S9 Occurrence Probability: 0.0637246
+S9 Error Probability: 0.0777368
+S9 Error Probability MC: 0
+S9 Error Vector Magnitude: 0.246485
+Metrics for symbol 10:
+S10 Ideal: 3 1
+S10 Mean: 2.93355 0.967626
+S10 Std: 0.415514 0.538913
+S10 Number Of Occurrences: 2052
+S10 Number Of Errors: 0
+S10 Occurrence Probability: 0.0626259
+S10 Error Probability: 0.0755295
+S10 Error Probability MC: 0
+S10 Error Vector Magnitude: 0.216406
+Metrics for symbol 11:
+S11 Ideal: -1 1
+S11 Mean: -1.12889 0.816923
+S11 Std: 0.547672 0.470634
+S11 Number Of Occurrences: 2113
+S11 Number Of Errors: 0
+S11 Occurrence Probability: 0.0644876
+S11 Error Probability: 0.119197
+S11 Error Probability MC: 0
+S11 Error Vector Magnitude: 0.534474
+Metrics for symbol 12:
+S12 Ideal: 1 1
+S12 Mean: 0.857836 0.82841
+S12 Std: 0.493446 0.478647
+S12 Number Of Occurrences: 2004
+S12 Number Of Errors: 0
+S12 Occurrence Probability: 0.061161
+S12 Error Probability: 0.0978043
+S12 Error Probability MC: 0
+S12 Error Vector Magnitude: 0.510887
+Metrics for symbol 13:
+S13 Ideal: -3 -1
+S13 Mean: -3.17003 -0.923953
+S13 Std: 0.534983 0.525061
+S13 Number Of Occurrences: 1997
+S13 Number Of Errors: 0
+S13 Occurrence Probability: 0.0609473
+S13 Error Probability: 0.0729572
+S13 Error Probability MC: 0
+S13 Error Vector Magnitude: 0.244194
+Metrics for symbol 14:
+S14 Ideal: 3 -1
+S14 Mean: 2.92053 -0.970238
+S14 Std: 0.405166 0.538493
+S14 Number Of Occurrences: 2106
+S14 Number Of Errors: 0
+S14 Occurrence Probability: 0.0642739
+S14 Error Probability: 0.0745182
+S14 Error Probability MC: 0
+S14 Error Vector Magnitude: 0.214737
+Metrics for symbol 15:
+S15 Ideal: -1 -1
+S15 Mean: -1.13884 -1.09419
+S15 Std: 0.547119 0.558302
+S15 Number Of Occurrences: 2058
+S15 Number Of Errors: 0
+S15 Occurrence Probability: 0.062809
+S15 Error Probability: 0.147885
+S15 Error Probability MC: 0
+S15 Error Vector Magnitude: 0.565194
+Metrics for symbol 16:
+S16 Ideal: 1 -1
+S16 Mean: 0.849787 -1.09825
+S16 Std: 0.490143 0.558415
+S16 Number Of Occurrences: 2052
+S16 Number Of Errors: 0
+S16 Occurrence Probability: 0.0626259
+S16 Error Probability: 0.124768
+S16 Error Probability MC: 0
+S16 Error Vector Magnitude: 0.540377
+Thu Nov 14 15:28:33 2019
+Modulation: MQAMGray16
+Run Number: 1
+GPRF:
+6420.53 -2.34642
+2.34642 6420.53
+Number Of Symbols: 32766
+Number Of Ignored Symbols: 2
+Number Of Errors: 0
+BER_MC: 0
+SER_MC: 0
+SER_Gauss: 0.0755916
+EVM: 0.227595
+Metrics for symbol 1:
+S1 Ideal: -3 3
+S1 Mean: -3.03041 3.00352
+S1 Std: 0.49718 0.475611
+S1 Number Of Occurrences: 2042
+S1 Number Of Errors: 0
+S1 Occurrence Probability: 0.0623207
+S1 Error Probability: 0.0362069
+S1 Error Probability MC: 0
+S1 Error Vector Magnitude: 0.162292
+Metrics for symbol 2:
+S2 Ideal: 3 3
+S2 Mean: 3.02386 2.97139
+S2 Std: 0.493343 0.457616
+S2 Number Of Occurrences: 2003
+S2 Number Of Errors: 0
+S2 Occurrence Probability: 0.0611304
+S2 Error Probability: 0.0355456
+S2 Error Probability MC: 0
+S2 Error Vector Magnitude: 0.158808
+Metrics for symbol 3:
+S3 Ideal: -1 3
+S3 Mean: -0.960773 2.87975
+S3 Std: 0.527459 0.381668
+S3 Number Of Occurrences: 2088
+S3 Number Of Errors: 0
+S3 Occurrence Probability: 0.0637246
+S3 Error Probability: 0.0686315
+S3 Error Probability MC: 0
+S3 Error Vector Magnitude: 0.209685
+Metrics for symbol 4:
+S4 Ideal: 1 3
+S4 Mean: 0.979653 2.88352
+S4 Std: 0.530989 0.386188
+S4 Number Of Occurrences: 2050
+S4 Number Of Errors: 0
+S4 Occurrence Probability: 0.0625649
+S4 Error Probability: 0.0702615
+S4 Error Probability MC: 0
+S4 Error Vector Magnitude: 0.210917
+Metrics for symbol 5:
+S5 Ideal: -3 -3
+S5 Mean: -3.01172 -2.98051
+S5 Std: 0.48771 0.463378
+S5 Number Of Occurrences: 1966
+S5 Number Of Errors: 0
+S5 Occurrence Probability: 0.0600012
+S5 Error Probability: 0.0358657
+S5 Error Probability MC: 0
+S5 Error Vector Magnitude: 0.158617
+Metrics for symbol 6:
+S6 Ideal: 3 -3
+S6 Mean: 3.05127 -2.98108
+S6 Std: 0.505599 0.462349
+S6 Number Of Occurrences: 2106
+S6 Number Of Errors: 0
+S6 Occurrence Probability: 0.0642739
+S6 Error Probability: 0.0354003
+S6 Error Probability MC: 0
+S6 Error Vector Magnitude: 0.16196
+Metrics for symbol 7:
+S7 Ideal: -1 -3
+S7 Mean: -0.993801 -3.11527
+S7 Std: 0.533519 0.523042
+S7 Number Of Occurrences: 2058
+S7 Number Of Errors: 0
+S7 Occurrence Probability: 0.062809
+S7 Error Probability: 0.0763876
+S7 Error Probability MC: 0
+S7 Error Vector Magnitude: 0.239013
+Metrics for symbol 8:
+S8 Ideal: 1 -3
+S8 Mean: 0.982988 -3.10501
+S8 Std: 0.532036 0.519712
+S8 Number Of Occurrences: 1983
+S8 Number Of Errors: 0
+S8 Occurrence Probability: 0.0605201
+S8 Error Probability: 0.0760317
+S8 Error Probability MC: 0
+S8 Error Vector Magnitude: 0.237529
+Metrics for symbol 9:
+S9 Ideal: -3 1
+S9 Mean: -3.15342 0.969473
+S9 Std: 0.533205 0.531196
+S9 Number Of Occurrences: 2088
+S9 Number Of Errors: 0
+S9 Occurrence Probability: 0.0637246
+S9 Error Probability: 0.0745287
+S9 Error Probability MC: 0
+S9 Error Vector Magnitude: 0.243038
+Metrics for symbol 10:
+S10 Ideal: 3 1
+S10 Mean: 2.90641 0.952924
+S10 Std: 0.421897 0.527718
+S10 Number Of Occurrences: 2052
+S10 Number Of Errors: 0
+S10 Occurrence Probability: 0.0626259
+S10 Error Probability: 0.0740028
+S10 Error Probability MC: 0
+S10 Error Vector Magnitude: 0.216157
+Metrics for symbol 11:
+S11 Ideal: -1 1
+S11 Mean: -1.13056 0.819367
+S11 Std: 0.538601 0.472931
+S11 Number Of Occurrences: 2113
+S11 Number Of Errors: 0
+S11 Occurrence Probability: 0.0644876
+S11 Error Probability: 0.115599
+S11 Error Probability MC: 0
+S11 Error Vector Magnitude: 0.530654
+Metrics for symbol 12:
+S12 Ideal: 1 1
+S12 Mean: 0.852427 0.84715
+S12 Std: 0.489799 0.488149
+S12 Number Of Occurrences: 2004
+S12 Number Of Errors: 0
+S12 Occurrence Probability: 0.061161
+S12 Error Probability: 0.0983471
+S12 Error Probability MC: 0
+S12 Error Vector Magnitude: 0.511417
+Metrics for symbol 13:
+S13 Ideal: -3 -1
+S13 Mean: -3.13781 -0.976114
+S13 Std: 0.530184 0.533154
+S13 Number Of Occurrences: 1997
+S13 Number Of Errors: 0
+S13 Occurrence Probability: 0.0609473
+S13 Error Probability: 0.075927
+S13 Error Probability MC: 0
+S13 Error Vector Magnitude: 0.241791
+Metrics for symbol 14:
+S14 Ideal: 3 -1
+S14 Mean: 2.91181 -0.980764
+S14 Std: 0.426727 0.533651
+S14 Number Of Occurrences: 2106
+S14 Number Of Errors: 0
+S14 Occurrence Probability: 0.0642739
+S14 Error Probability: 0.076427
+S14 Error Probability MC: 0
+S14 Error Vector Magnitude: 0.2179
+Metrics for symbol 15:
+S15 Ideal: -1 -1
+S15 Mean: -1.11867 -1.135
+S15 Std: 0.539616 0.54286
+S15 Number Of Occurrences: 2058
+S15 Number Of Errors: 0
+S15 Occurrence Probability: 0.062809
+S15 Error Probability: 0.13891
+S15 Error Probability MC: 0
+S15 Error Vector Magnitude: 0.555835
+Metrics for symbol 16:
+S16 Ideal: 1 -1
+S16 Mean: 0.860241 -1.10507
+S16 Std: 0.493708 0.544597
+S16 Number Of Occurrences: 2052
+S16 Number Of Errors: 0
+S16 Occurrence Probability: 0.0626259
+S16 Error Probability: 0.11893
+S16 Error Probability MC: 0
+S16 Error Vector Magnitude: 0.534155
+Thu Nov 14 15:28:40 2019
+Modulation: MQAMGray16
+Run Number: 1
+GPRF:
+6071.35 -3.04547
+3.04547 6071.35
+Number Of Symbols: 32766
+Number Of Ignored Symbols: 2
+Number Of Errors: 0
+BER_MC: 0
+SER_MC: 0
+SER_Gauss: 4.88147e-05
+EVM: 0.10408
+Metrics for symbol 1:
+S1 Ideal: -3 3
+S1 Mean: -3.01485 3.00039
+S1 Std: 0.201561 0.236022
+S1 Number Of Occurrences: 2042
+S1 Number Of Errors: 0
+S1 Occurrence Probability: 0.0623207
+S1 Error Probability: 1.14876e-05
+S1 Error Probability MC: 0
+S1 Error Vector Magnitude: 0.0732222
+Metrics for symbol 2:
+S2 Ideal: 3 3
+S2 Mean: 3.01167 3.00206
+S2 Std: 0.205416 0.233581
+S2 Number Of Occurrences: 2003
+S2 Number Of Errors: 0
+S2 Occurrence Probability: 0.0611304
+S2 Error Probability: 9.35604e-06
+S2 Error Probability MC: 0
+S2 Error Vector Magnitude: 0.0733515
+Metrics for symbol 3:
+S3 Ideal: -1 3
+S3 Mean: -0.989012 2.94032
+S3 Std: 0.238693 0.244071
+S3 Number Of Occurrences: 2088
+S3 Number Of Errors: 0
+S3 Occurrence Probability: 0.0637246
+S3 Error Probability: 8.69353e-05
+S3 Error Probability MC: 0
+S3 Error Vector Magnitude: 0.109623
+Metrics for symbol 4:
+S4 Ideal: 1 3
+S4 Mean: 0.9921 2.9448
+S4 Std: 0.239175 0.244672
+S4 Number Of Occurrences: 2050
+S4 Number Of Errors: 0
+S4 Occurrence Probability: 0.0625649
+S4 Error Probability: 8.56553e-05
+S4 Error Probability MC: 0
+S4 Error Vector Magnitude: 0.1096
+Metrics for symbol 5:
+S5 Ideal: -3 -3
+S5 Mean: -3.00973 -3.00586
+S5 Std: 0.20458 0.232334
+S5 Number Of Occurrences: 1966
+S5 Number Of Errors: 0
+S5 Occurrence Probability: 0.0600012
+S5 Error Probability: 7.87556e-06
+S5 Error Probability MC: 0
+S5 Error Vector Magnitude: 0.0729963
+Metrics for symbol 6:
+S6 Ideal: 3 -3
+S6 Mean: 3.00982 -3.00931
+S6 Std: 0.209493 0.231548
+S6 Number Of Occurrences: 2106
+S6 Number Of Errors: 0
+S6 Occurrence Probability: 0.0642739
+S6 Error Probability: 7.25009e-06
+S6 Error Probability MC: 0
+S6 Error Vector Magnitude: 0.0736503
+Metrics for symbol 7:
+S7 Ideal: -1 -3
+S7 Mean: -0.995057 -3.06134
+S7 Std: 0.23828 0.209279
+S7 Number Of Occurrences: 2058
+S7 Number Of Errors: 0
+S7 Occurrence Probability: 0.062809
+S7 Error Probability: 2.73845e-05
+S7 Error Probability MC: 0
+S7 Error Vector Magnitude: 0.102134
+Metrics for symbol 8:
+S8 Ideal: 1 -3
+S8 Mean: 0.994903 -3.06167
+S8 Std: 0.239341 0.211646
+S8 Number Of Occurrences: 1983
+S8 Number Of Errors: 0
+S8 Occurrence Probability: 0.0605201
+S8 Error Probability: 2.9776e-05
+S8 Error Probability MC: 0
+S8 Error Vector Magnitude: 0.102886
+Metrics for symbol 9:
+S9 Ideal: -3 1
+S9 Mean: -3.05629 0.995101
+S9 Std: 0.181292 0.243758
+S9 Number Of Occurrences: 2088
+S9 Number Of Errors: 0
+S9 Occurrence Probability: 0.0637246
+S9 Error Probability: 4.10338e-05
+S9 Error Probability MC: 0
+S9 Error Vector Magnitude: 0.0976901
+Metrics for symbol 10:
+S10 Ideal: 3 1
+S10 Mean: 2.94683 0.999299
+S10 Std: 0.232158 0.243123
+S10 Number Of Occurrences: 2052
+S10 Number Of Errors: 0
+S10 Occurrence Probability: 0.0626259
+S10 Error Probability: 6.17049e-05
+S10 Error Probability MC: 0
+S10 Error Vector Magnitude: 0.1076
+Metrics for symbol 11:
+S11 Ideal: -1 1
+S11 Mean: -1.05277 0.914585
+S11 Std: 0.2222 0.237494
+S11 Number Of Occurrences: 2113
+S11 Number Of Errors: 0
+S11 Occurrence Probability: 0.0644876
+S11 Error Probability: 7.24225e-05
+S11 Error Probability MC: 0
+S11 Error Vector Magnitude: 0.240631
+Metrics for symbol 12:
+S12 Ideal: 1 1
+S12 Mean: 0.944043 0.934213
+S12 Std: 0.240068 0.241976
+S12 Number Of Occurrences: 2004
+S12 Number Of Errors: 0
+S12 Occurrence Probability: 0.061161
+S12 Error Probability: 0.000109314
+S12 Error Probability MC: 0
+S12 Error Vector Magnitude: 0.248582
+Metrics for symbol 13:
+S13 Ideal: -3 -1
+S13 Mean: -3.05208 -0.987605
+S13 Std: 0.178724 0.243578
+S13 Number Of Occurrences: 1997
+S13 Number Of Errors: 0
+S13 Occurrence Probability: 0.0609473
+S13 Error Probability: 4.12838e-05
+S13 Error Probability MC: 0
+S13 Error Vector Magnitude: 0.0970013
+Metrics for symbol 14:
+S14 Ideal: 3 -1
+S14 Mean: 2.94738 -0.995819
+S14 Std: 0.230152 0.244153
+S14 Number Of Occurrences: 2106
+S14 Number Of Errors: 0
+S14 Occurrence Probability: 0.0642739
+S14 Error Probability: 6.14277e-05
+S14 Error Probability MC: 0
+S14 Error Vector Magnitude: 0.107384
+Metrics for symbol 15:
+S15 Ideal: -1 -1
+S15 Mean: -1.05293 -1.05825
+S15 Std: 0.224622 0.231326
+S15 Number Of Occurrences: 2058
+S15 Number Of Errors: 0
+S15 Occurrence Probability: 0.062809
+S15 Error Probability: 3.95811e-05
+S15 Error Probability MC: 0
+S15 Error Vector Magnitude: 0.234639
+Metrics for symbol 16:
+S16 Ideal: 1 -1
+S16 Mean: 0.926576 -1.05187
+S16 Std: 0.238957 0.234349
+S16 Number Of Occurrences: 2052
+S16 Number Of Errors: 0
+S16 Occurrence Probability: 0.0626259
+S16 Error Probability: 8.59346e-05
+S16 Error Probability MC: 0
+S16 Error Vector Magnitude: 0.244997
+Thu Nov 14 15:28:40 2019
+Modulation: MQAMGray16
+Run Number: 1
+GPRF:
+6062.26 1.41063
+-1.41063 6062.26
+Number Of Symbols: 32766
+Number Of Ignored Symbols: 2
+Number Of Errors: 0
+BER_MC: 0
+SER_MC: 0
+SER_Gauss: 3.4311e-05
+EVM: 0.100211
+Metrics for symbol 1:
+S1 Ideal: -3 3
+S1 Mean: -3.01107 3.00836
+S1 Std: 0.19814 0.206814
+S1 Number Of Occurrences: 2042
+S1 Number Of Errors: 0
+S1 Occurrence Probability: 0.0623207
+S1 Error Probability: 7.09515e-07
+S1 Error Probability MC: 0
+S1 Error Vector Magnitude: 0.0675705
+Metrics for symbol 2:
+S2 Ideal: 3 3
+S2 Mean: 3.0075 2.99825
+S2 Std: 0.200606 0.215261
+S2 Number Of Occurrences: 2003
+S2 Number Of Errors: 0
+S2 Occurrence Probability: 0.0611304
+S2 Error Probability: 2.01928e-06
+S2 Error Probability MC: 0
+S2 Error Vector Magnitude: 0.0693605
+Metrics for symbol 3:
+S3 Ideal: -1 3
+S3 Mean: -0.998469 2.95196
+S3 Std: 0.235472 0.230385
+S3 Number Of Occurrences: 2088
+S3 Number Of Errors: 0
+S3 Occurrence Probability: 0.0637246
+S3 Error Probability: 3.96725e-05
+S3 Error Probability MC: 0
+S3 Error Vector Magnitude: 0.105253
+Metrics for symbol 4:
+S4 Ideal: 1 3
+S4 Mean: 1.00095 2.9458
+S4 Std: 0.235675 0.232387
+S4 Number Of Occurrences: 2050
+S4 Number Of Errors: 0
+S4 Occurrence Probability: 0.0625649
+S4 Error Probability: 4.55569e-05
+S4 Error Probability MC: 0
+S4 Error Vector Magnitude: 0.106034
+Metrics for symbol 5:
+S5 Ideal: -3 -3
+S5 Mean: -3.00025 -3.00278
+S5 Std: 0.200947 0.209505
+S5 Number Of Occurrences: 1966
+S5 Number Of Errors: 0
+S5 Occurrence Probability: 0.0600012
+S5 Error Probability: 1.17065e-06
+S5 Error Probability MC: 0
+S5 Error Vector Magnitude: 0.0684094
+Metrics for symbol 6:
+S6 Ideal: 3 -3
+S6 Mean: 3.01123 -3.00398
+S6 Std: 0.19541 0.212982
+S6 Number Of Occurrences: 2106
+S6 Number Of Errors: 0
+S6 Occurrence Probability: 0.0642739
+S6 Error Probability: 1.329e-06
+S6 Error Probability MC: 0
+S6 Error Vector Magnitude: 0.06817
+Metrics for symbol 7:
+S7 Ideal: -1 -3
+S7 Mean: -1.00235 -3.0589
+S7 Std: 0.233956 0.183124
+S7 Number Of Occurrences: 2058
+S7 Number Of Errors: 0
+S7 Occurrence Probability: 0.062809
+S7 Error Probability: 1.91959e-05
+S7 Error Probability MC: 0
+S7 Error Vector Magnitude: 0.095761
+Metrics for symbol 8:
+S8 Ideal: 1 -3
+S8 Mean: 0.996656 -3.05563
+S8 Std: 0.236859 0.183477
+S8 Number Of Occurrences: 1983
+S8 Number Of Errors: 0
+S8 Occurrence Probability: 0.0605201
+S8 Error Probability: 2.42731e-05
+S8 Error Probability MC: 0
+S8 Error Vector Magnitude: 0.0963467
+Metrics for symbol 9:
+S9 Ideal: -3 1
+S9 Mean: -3.05223 0.995614
+S9 Std: 0.168206 0.239147
+S9 Number Of Occurrences: 2088
+S9 Number Of Errors: 0
+S9 Occurrence Probability: 0.0637246
+S9 Error Probability: 2.90446e-05
+S9 Error Probability MC: 0
+S9 Error Vector Magnitude: 0.0939098
+Metrics for symbol 10:
+S10 Ideal: 3 1
+S10 Mean: 2.94902 0.990163
+S10 Std: 0.224108 0.240588
+S10 Number Of Occurrences: 2052
+S10 Number Of Errors: 0
+S10 Occurrence Probability: 0.0626259
+S10 Error Probability: 4.42543e-05
+S10 Error Probability MC: 0
+S10 Error Vector Magnitude: 0.105238
+Metrics for symbol 11:
+S11 Ideal: -1 1
+S11 Mean: -1.05283 0.922389
+S11 Std: 0.223838 0.239874
+S11 Number Of Occurrences: 2113
+S11 Number Of Errors: 0
+S11 Occurrence Probability: 0.0644876
+S11 Error Probability: 7.66056e-05
+S11 Error Probability MC: 0
+S11 Error Vector Magnitude: 0.241253
+Metrics for symbol 12:
+S12 Ideal: 1 1
+S12 Mean: 0.929768 0.933632
+S12 Std: 0.238156 0.241935
+S12 Number Of Occurrences: 2004
+S12 Number Of Errors: 0
+S12 Occurrence Probability: 0.061161
+S12 Error Probability: 0.000112943
+S12 Error Probability MC: 0
+S12 Error Vector Magnitude: 0.24953
+Metrics for symbol 13:
+S13 Ideal: -3 -1
+S13 Mean: -3.04468 -0.999289
+S13 Std: 0.176481 0.238879
+S13 Number Of Occurrences: 1997
+S13 Number Of Errors: 0
+S13 Occurrence Probability: 0.0609473
+S13 Error Probability: 2.83676e-05
+S13 Error Probability MC: 0
+S13 Error Vector Magnitude: 0.0949535
+Metrics for symbol 14:
+S14 Ideal: 3 -1
+S14 Mean: 2.95736 -1.00422
+S14 Std: 0.222633 0.236283
+S14 Number Of Occurrences: 2106
+S14 Number Of Errors: 0
+S14 Occurrence Probability: 0.0642739
+S14 Error Probability: 3.17434e-05
+S14 Error Probability MC: 0
+S14 Error Vector Magnitude: 0.103528
+Metrics for symbol 15:
+S15 Ideal: -1 -1
+S15 Mean: -1.04913 -1.0645
+S15 Std: 0.220495 0.221345
+S15 Number Of Occurrences: 2058
+S15 Number Of Errors: 0
+S15 Occurrence Probability: 0.062809
+S15 Error Probability: 2.16793e-05
+S15 Error Probability MC: 0
+S15 Error Vector Magnitude: 0.228187
+Metrics for symbol 16:
+S16 Ideal: 1 -1
+S16 Mean: 0.93193 -1.04868
+S16 Std: 0.239683 0.225988
+S16 Number Of Occurrences: 2052
+S16 Number Of Errors: 0
+S16 Occurrence Probability: 0.0626259
+S16 Error Probability: 6.91992e-05
+S16 Error Probability MC: 0
+S16 Error Vector Magnitude: 0.240279
+Thu Nov 14 15:28:47 2019
+Modulation: MQAMGray16
+Run Number: 1
+GPRF:
+6103.04 -3.23816
+3.23816 6103.04
+Number Of Symbols: 32766
+Number Of Ignored Symbols: 2
+Number Of Errors: 0
+BER_MC: 0
+SER_MC: 0
+SER_Gauss: 4.61914e-09
+EVM: 0.0754808
+Metrics for symbol 1:
+S1 Ideal: -3 3
+S1 Mean: -3.00811 2.9958
+S1 Std: 0.16671 0.166538
+S1 Number Of Occurrences: 2042
+S1 Number Of Errors: 0
+S1 Occurrence Probability: 0.0623207
+S1 Error Probability: 1.85703e-09
+S1 Error Probability MC: 0
+S1 Error Vector Magnitude: 0.0555693
+Metrics for symbol 2:
+S2 Ideal: 3 3
+S2 Mean: 3.00365 2.99708
+S2 Std: 0.165541 0.163045
+S2 Number Of Occurrences: 2003
+S2 Number Of Errors: 0
+S2 Occurrence Probability: 0.0611304
+S2 Error Probability: 1.15047e-09
+S2 Error Probability MC: 0
+S2 Error Vector Magnitude: 0.0547634
+Metrics for symbol 3:
+S3 Ideal: -1 3
+S3 Mean: -0.992652 2.95797
+S3 Std: 0.165423 0.161123
+S3 Number Of Occurrences: 2088
+S3 Number Of Errors: 0
+S3 Occurrence Probability: 0.0637246
+S3 Error Probability: 2.92619e-09
+S3 Error Probability MC: 0
+S3 Error Vector Magnitude: 0.0742432
+Metrics for symbol 4:
+S4 Ideal: 1 3
+S4 Mean: 0.99206 2.95862
+S4 Std: 0.162471 0.169797
+S4 Number Of Occurrences: 2050
+S4 Number Of Errors: 0
+S4 Occurrence Probability: 0.0625649
+S4 Error Probability: 9.01284e-09
+S4 Error Probability MC: 0
+S4 Error Vector Magnitude: 0.0754828
+Metrics for symbol 5:
+S5 Ideal: -3 -3
+S5 Mean: -3.00535 -3.00566
+S5 Std: 0.162261 0.165127
+S5 Number Of Occurrences: 1966
+S5 Number Of Errors: 0
+S5 Occurrence Probability: 0.0600012
+S5 Error Probability: 8.53605e-10
+S5 Error Probability MC: 0
+S5 Error Vector Magnitude: 0.0545838
+Metrics for symbol 6:
+S6 Ideal: 3 -3
+S6 Mean: 3.0048 -3.0053
+S6 Std: 0.169131 0.159648
+S6 Number Of Occurrences: 2106
+S6 Number Of Errors: 0
+S6 Occurrence Probability: 0.0642739
+S6 Error Probability: 1.56847e-09
+S6 Error Probability MC: 0
+S6 Error Vector Magnitude: 0.0548322
+Metrics for symbol 7:
+S7 Ideal: -1 -3
+S7 Mean: -0.995733 -3.05675
+S7 Std: 0.166086 0.165234
+S7 Number Of Occurrences: 2058
+S7 Number Of Errors: 0
+S7 Occurrence Probability: 0.062809
+S7 Error Probability: 1.83491e-09
+S7 Error Probability MC: 0
+S7 Error Vector Magnitude: 0.0762226
+Metrics for symbol 8:
+S8 Ideal: 1 -3
+S8 Mean: 0.989504 -3.0475
+S8 Std: 0.167729 0.162914
+S8 Number Of Occurrences: 1983
+S8 Number Of Errors: 0
+S8 Occurrence Probability: 0.0605201
+S8 Error Probability: 2.73536e-09
+S8 Error Probability MC: 0
+S8 Error Vector Magnitude: 0.0755071
+Metrics for symbol 9:
+S9 Ideal: -3 1
+S9 Mean: -3.05544 0.994746
+S9 Std: 0.166262 0.163568
+S9 Number Of Occurrences: 2088
+S9 Number Of Errors: 0
+S9 Occurrence Probability: 0.0637246
+S9 Error Probability: 1.10208e-09
+S9 Error Probability MC: 0
+S9 Error Vector Magnitude: 0.0758107
+Metrics for symbol 10:
+S10 Ideal: 3 1
+S10 Mean: 2.94992 0.998693
+S10 Std: 0.167344 0.160392
+S10 Number Of Occurrences: 2052
+S10 Number Of Errors: 0
+S10 Occurrence Probability: 0.0626259
+S10 Error Probability: 7.32875e-09
+S10 Error Probability MC: 0
+S10 Error Vector Magnitude: 0.0749754
+Metrics for symbol 11:
+S11 Ideal: -1 1
+S11 Mean: -1.04387 0.934713
+S11 Std: 0.166077 0.165043
+S11 Number Of Occurrences: 2113
+S11 Number Of Errors: 0
+S11 Occurrence Probability: 0.0644876
+S11 Error Probability: 1.19129e-08
+S11 Error Probability MC: 0
+S11 Error Vector Magnitude: 0.174616
+Metrics for symbol 12:
+S12 Ideal: 1 1
+S12 Mean: 0.947816 0.947587
+S12 Std: 0.159948 0.166544
+S12 Number Of Occurrences: 2004
+S12 Number Of Errors: 0
+S12 Occurrence Probability: 0.061161
+S12 Error Probability: 8.07207e-09
+S12 Error Probability MC: 0
+S12 Error Vector Magnitude: 0.171412
+Metrics for symbol 13:
+S13 Ideal: -3 -1
+S13 Mean: -3.0529 -0.987277
+S13 Std: 0.162263 0.1622
+S13 Number Of Occurrences: 1997
+S13 Number Of Errors: 0
+S13 Occurrence Probability: 0.0609473
+S13 Error Probability: 8.32911e-10
+S13 Error Probability MC: 0
+S13 Error Vector Magnitude: 0.0745466
+Metrics for symbol 14:
+S14 Ideal: 3 -1
+S14 Mean: 2.94879 -0.99927
+S14 Std: 0.164462 0.166758
+S14 Number Of Occurrences: 2106
+S14 Number Of Errors: 0
+S14 Occurrence Probability: 0.0642739
+S14 Error Probability: 6.00086e-09
+S14 Error Probability MC: 0
+S14 Error Vector Magnitude: 0.0757981
+Metrics for symbol 15:
+S15 Ideal: -1 -1
+S15 Mean: -1.04436 -1.04786
+S15 Std: 0.165744 0.162546
+S15 Number Of Occurrences: 2058
+S15 Number Of Errors: 0
+S15 Occurrence Probability: 0.062809
+S15 Error Probability: 6.61634e-09
+S15 Error Probability MC: 0
+S15 Error Vector Magnitude: 0.170476
+Metrics for symbol 16:
+S16 Ideal: 1 -1
+S16 Mean: 0.943787 -1.04308
+S16 Std: 0.16502 0.166003
+S16 Number Of Occurrences: 2052
+S16 Number Of Errors: 0
+S16 Occurrence Probability: 0.0626259
+S16 Error Probability: 9.68838e-09
+S16 Error Probability MC: 0
+S16 Error Vector Magnitude: 0.172883
+Thu Nov 14 15:28:47 2019
+Modulation: MQAMGray16
+Run Number: 1
+GPRF:
+6105.29 0.547227
+-0.547227 6105.29
+Number Of Symbols: 32766
+Number Of Ignored Symbols: 2
+Number Of Errors: 0
+BER_MC: 0
+SER_MC: 0
+SER_Gauss: 4.27238e-09
+EVM: 0.0751041
+Metrics for symbol 1:
+S1 Ideal: -3 3
+S1 Mean: -3.00403 3.00856
+S1 Std: 0.16544 0.162113
+S1 Number Of Occurrences: 2042
+S1 Number Of Errors: 0
+S1 Occurrence Probability: 0.0623207
+S1 Error Probability: 8.90535e-10
+S1 Error Probability MC: 0
+S1 Error Vector Magnitude: 0.0546271
+Metrics for symbol 2:
+S2 Ideal: 3 3
+S2 Mean: 3.00743 2.99978
+S2 Std: 0.165767 0.165674
+S2 Number Of Occurrences: 2003
+S2 Number Of Errors: 0
+S2 Occurrence Probability: 0.0611304
+S2 Error Probability: 1.4075e-09
+S2 Error Probability MC: 0
+S2 Error Vector Magnitude: 0.0552542
+Metrics for symbol 3:
+S3 Ideal: -1 3
+S3 Mean: -0.993954 2.95299
+S3 Std: 0.158899 0.160807
+S3 Number Of Occurrences: 2088
+S3 Number Of Errors: 0
+S3 Occurrence Probability: 0.0637246
+S3 Error Probability: 1.8691e-09
+S3 Error Probability MC: 0
+S3 Error Vector Magnitude: 0.0730272
+Metrics for symbol 4:
+S4 Ideal: 1 3
+S4 Mean: 0.996553 2.95211
+S4 Std: 0.164391 0.159542
+S4 Number Of Occurrences: 2050
+S4 Number Of Errors: 0
+S4 Occurrence Probability: 0.0625649
+S4 Error Probability: 2.39133e-09
+S4 Error Probability MC: 0
+S4 Error Vector Magnitude: 0.0739983
+Metrics for symbol 5:
+S5 Ideal: -3 -3
+S5 Mean: -2.99665 -2.99573
+S5 Std: 0.161298 0.163294
+S5 Number Of Occurrences: 1966
+S5 Number Of Errors: 0
+S5 Occurrence Probability: 0.0600012
+S5 Error Probability: 8.60417e-10
+S5 Error Probability MC: 0
+S5 Error Vector Magnitude: 0.0541011
+Metrics for symbol 6:
+S6 Ideal: 3 -3
+S6 Mean: 3.01452 -3.00576
+S6 Std: 0.162412 0.161218
+S6 Number Of Occurrences: 2106
+S6 Number Of Errors: 0
+S6 Occurrence Probability: 0.0642739
+S6 Error Probability: 4.30629e-10
+S6 Error Probability MC: 0
+S6 Error Vector Magnitude: 0.0540513
+Metrics for symbol 7:
+S7 Ideal: -1 -3
+S7 Mean: -0.99312 -3.05873
+S7 Std: 0.162354 0.16556
+S7 Number Of Occurrences: 2058
+S7 Number Of Errors: 0
+S7 Occurrence Probability: 0.062809
+S7 Error Probability: 8.36385e-10
+S7 Error Probability MC: 0
+S7 Error Vector Magnitude: 0.0756564
+Metrics for symbol 8:
+S8 Ideal: 1 -3
+S8 Mean: 0.994879 -3.05209
+S8 Std: 0.164675 0.163387
+S8 Number Of Occurrences: 1983
+S8 Number Of Errors: 0
+S8 Occurrence Probability: 0.0605201
+S8 Error Probability: 1.34208e-09
+S8 Error Probability MC: 0
+S8 Error Vector Magnitude: 0.0751834
+Metrics for symbol 9:
+S9 Ideal: -3 1
+S9 Mean: -3.04978 0.99484
+S9 Std: 0.1621 0.163761
+S9 Number Of Occurrences: 2088
+S9 Number Of Errors: 0
+S9 Occurrence Probability: 0.0637246
+S9 Error Probability: 1.0852e-09
+S9 Error Probability MC: 0
+S9 Error Vector Magnitude: 0.0745474
+Metrics for symbol 10:
+S10 Ideal: 3 1
+S10 Mean: 2.95497 0.99323
+S10 Std: 0.163319 0.167178
+S10 Number Of Occurrences: 2052
+S10 Number Of Errors: 0
+S10 Occurrence Probability: 0.0626259
+S10 Error Probability: 4.77432e-09
+S10 Error Probability MC: 0
+S10 Error Vector Magnitude: 0.0752785
+Metrics for symbol 11:
+S11 Ideal: -1 1
+S11 Mean: -1.04021 0.937583
+S11 Std: 0.164595 0.163355
+S11 Number Of Occurrences: 2113
+S11 Number Of Errors: 0
+S11 Occurrence Probability: 0.0644876
+S11 Error Probability: 7.66745e-09
+S11 Error Probability MC: 0
+S11 Error Vector Magnitude: 0.172139
+Metrics for symbol 12:
+S12 Ideal: 1 1
+S12 Mean: 0.942904 0.949136
+S12 Std: 0.164042 0.166295
+S12 Number Of Occurrences: 2004
+S12 Number Of Errors: 0
+S12 Occurrence Probability: 0.061161
+S12 Error Probability: 1.04366e-08
+S12 Error Probability MC: 0
+S12 Error Vector Magnitude: 0.173758
+Metrics for symbol 13:
+S13 Ideal: -3 -1
+S13 Mean: -3.04711 -0.996867
+S13 Std: 0.166756 0.166189
+S13 Number Of Occurrences: 1997
+S13 Number Of Errors: 0
+S13 Occurrence Probability: 0.0609473
+S13 Error Probability: 1.95604e-09
+S13 Error Probability MC: 0
+S13 Error Vector Magnitude: 0.0759132
+Metrics for symbol 14:
+S14 Ideal: 3 -1
+S14 Mean: 2.95259 -1.00034
+S14 Std: 0.163769 0.161219
+S14 Number Of Occurrences: 2106
+S14 Number Of Errors: 0
+S14 Occurrence Probability: 0.0642739
+S14 Error Probability: 3.55631e-09
+S14 Error Probability MC: 0
+S14 Error Vector Magnitude: 0.0741853
+Metrics for symbol 15:
+S15 Ideal: -1 -1
+S15 Mean: -1.0399 -1.05108
+S15 Std: 0.164563 0.16551
+S15 Number Of Occurrences: 2058
+S15 Number Of Errors: 0
+S15 Occurrence Probability: 0.062809
+S15 Error Probability: 7.86601e-09
+S15 Error Probability MC: 0
+S15 Error Vector Magnitude: 0.171245
+Metrics for symbol 16:
+S16 Ideal: 1 -1
+S16 Mean: 0.947392 -1.04269
+S16 Std: 0.171756 0.164499
+S16 Number Of Occurrences: 2052
+S16 Number Of Errors: 0
+S16 Occurrence Probability: 0.0626259
+S16 Error Probability: 2.08587e-08
+S16 Error Probability MC: 0
+S16 Error Vector Magnitude: 0.174818
+Thu Nov 14 15:28:54 2019
+Modulation: MQAMGray16
+Run Number: 1
+GPRF:
+6103.78 -1.55721
+1.55721 6103.78
+Number Of Symbols: 32766
+Number Of Ignored Symbols: 2
+Number Of Errors: 0
+BER_MC: 0
+SER_MC: 0
+SER_Gauss: 3.44205e-10
+EVM: 0.0706118
+Metrics for symbol 1:
+S1 Ideal: -3 3
+S1 Mean: -3.00637 2.99749
+S1 Std: 0.154504 0.156698
+S1 Number Of Occurrences: 2042
+S1 Number Of Errors: 0
+S1 Occurrence Probability: 0.0623207
+S1 Error Probability: 1.33909e-10
+S1 Error Probability MC: 0
+S1 Error Vector Magnitude: 0.0518807
+Metrics for symbol 2:
+S2 Ideal: 3 3
+S2 Mean: 3.0069 3.00018
+S2 Std: 0.155456 0.154174
+S2 Number Of Occurrences: 2003
+S2 Number Of Errors: 0
+S2 Occurrence Probability: 0.0611304
+S2 Error Probability: 9.04485e-11
+S2 Error Probability MC: 0
+S2 Error Vector Magnitude: 0.0516183
+Metrics for symbol 3:
+S3 Ideal: -1 3
+S3 Mean: -0.99153 2.9569
+S3 Std: 0.152603 0.149187
+S3 Number Of Occurrences: 2088
+S3 Number Of Errors: 0
+S3 Occurrence Probability: 0.0637246
+S3 Error Probability: 1.31077e-10
+S3 Error Probability MC: 0
+S3 Error Vector Magnitude: 0.0688851
+Metrics for symbol 4:
+S4 Ideal: 1 3
+S4 Mean: 0.989566 2.95915
+S4 Std: 0.151627 0.155009
+S4 Number Of Occurrences: 2050
+S4 Number Of Errors: 0
+S4 Occurrence Probability: 0.0625649
+S4 Error Probability: 3.52289e-10
+S4 Error Probability MC: 0
+S4 Error Vector Magnitude: 0.0698379
+Metrics for symbol 5:
+S5 Ideal: -3 -3
+S5 Mean: -3.00367 -3.0052
+S5 Std: 0.15293 0.157761
+S5 Number Of Occurrences: 1966
+S5 Number Of Errors: 0
+S5 Occurrence Probability: 0.0600012
+S5 Error Probability: 1.19884e-10
+S5 Error Probability MC: 0
+S5 Error Vector Magnitude: 0.0517966
+Metrics for symbol 6:
+S6 Ideal: 3 -3
+S6 Mean: 3.00525 -3.0035
+S6 Std: 0.156584 0.149475
+S6 Number Of Occurrences: 2106
+S6 Number Of Errors: 0
+S6 Occurrence Probability: 0.0642739
+S6 Error Probability: 7.77155e-11
+S6 Error Probability MC: 0
+S6 Error Vector Magnitude: 0.0510333
+Metrics for symbol 7:
+S7 Ideal: -1 -3
+S7 Mean: -0.99544 -3.05544
+S7 Std: 0.156485 0.151927
+S7 Number Of Occurrences: 2058
+S7 Number Of Errors: 0
+S7 Occurrence Probability: 0.062809
+S7 Error Probability: 1.70287e-10
+S7 Error Probability MC: 0
+S7 Error Vector Magnitude: 0.071162
+Metrics for symbol 8:
+S8 Ideal: 1 -3
+S8 Mean: 0.991754 -3.05013
+S8 Std: 0.158348 0.154198
+S8 Number Of Occurrences: 1983
+S8 Number Of Errors: 0
+S8 Occurrence Probability: 0.0605201
+S8 Error Probability: 2.89722e-10
+S8 Error Probability MC: 0
+S8 Error Vector Magnitude: 0.071699
+Metrics for symbol 9:
+S9 Ideal: -3 1
+S9 Mean: -3.05457 0.996768
+S9 Std: 0.154246 0.151231
+S9 Number Of Occurrences: 2088
+S9 Number Of Errors: 0
+S9 Occurrence Probability: 0.0637246
+S9 Error Probability: 4.22426e-11
+S9 Error Probability MC: 0
+S9 Error Vector Magnitude: 0.0704472
+Metrics for symbol 10:
+S10 Ideal: 3 1
+S10 Mean: 2.94894 1.00065
+S10 Std: 0.155434 0.14902
+S10 Number Of Occurrences: 2052
+S10 Number Of Errors: 0
+S10 Occurrence Probability: 0.0626259
+S10 Error Probability: 5.33161e-10
+S10 Error Probability MC: 0
+S10 Error Vector Magnitude: 0.0699658
+Metrics for symbol 11:
+S11 Ideal: -1 1
+S11 Mean: -1.04327 0.936866
+S11 Std: 0.154674 0.15432
+S11 Number Of Occurrences: 2113
+S11 Number Of Errors: 0
+S11 Occurrence Probability: 0.0644876
+S11 Error Probability: 9.55995e-10
+S11 Error Probability MC: 0
+S11 Error Vector Magnitude: 0.163668
+Metrics for symbol 12:
+S12 Ideal: 1 1
+S12 Mean: 0.948992 0.945554
+S12 Std: 0.150135 0.1533
+S12 Number Of Occurrences: 2004
+S12 Number Of Errors: 0
+S12 Occurrence Probability: 0.061161
+S12 Error Probability: 4.80139e-10
+S12 Error Probability MC: 0
+S12 Error Vector Magnitude: 0.1606
+Metrics for symbol 13:
+S13 Ideal: -3 -1
+S13 Mean: -3.05187 -0.987419
+S13 Std: 0.150276 0.148354
+S13 Number Of Occurrences: 1997
+S13 Number Of Errors: 0
+S13 Occurrence Probability: 0.0609473
+S13 Error Probability: 1.97505e-11
+S13 Error Probability MC: 0
+S13 Error Vector Magnitude: 0.068861
+Metrics for symbol 14:
+S14 Ideal: 3 -1
+S14 Mean: 2.94925 -0.998651
+S14 Std: 0.153784 0.154788
+S14 Number Of Occurrences: 2106
+S14 Number Of Errors: 0
+S14 Occurrence Probability: 0.0642739
+S14 Error Probability: 4.40433e-10
+S14 Error Probability MC: 0
+S14 Error Vector Magnitude: 0.0708264
+Metrics for symbol 15:
+S15 Ideal: -1 -1
+S15 Mean: -1.0459 -1.04462
+S15 Std: 0.158157 0.152199
+S15 Number Of Occurrences: 2058
+S15 Number Of Errors: 0
+S15 Occurrence Probability: 0.062809
+S15 Error Probability: 1.0012e-09
+S15 Error Probability MC: 0
+S15 Error Vector Magnitude: 0.161636
+Metrics for symbol 16:
+S16 Ideal: 1 -1
+S16 Mean: 0.942605 -1.04392
+S16 Std: 0.153941 0.152337
+S16 Number Of Occurrences: 2052
+S16 Number Of Errors: 0
+S16 Occurrence Probability: 0.0626259
+S16 Error Probability: 6.39113e-10
+S16 Error Probability MC: 0
+S16 Error Vector Magnitude: 0.161407
+Thu Nov 14 15:28:54 2019
+Modulation: MQAMGray16
+Run Number: 1
+GPRF:
+6104.68 -0.041048
+0.041048 6104.68
+Number Of Symbols: 32766
+Number Of Ignored Symbols: 2
+Number Of Errors: 0
+BER_MC: 0
+SER_MC: 0
+SER_Gauss: 3.45881e-10
+EVM: 0.0701344
+Metrics for symbol 1:
+S1 Ideal: -3 3
+S1 Mean: -3.00623 3.01006
+S1 Std: 0.154021 0.15031
+S1 Number Of Occurrences: 2042
+S1 Number Of Errors: 0
+S1 Occurrence Probability: 0.0623207
+S1 Error Probability: 4.13133e-11
+S1 Error Probability MC: 0
+S1 Error Vector Magnitude: 0.05079
+Metrics for symbol 2:
+S2 Ideal: 3 3
+S2 Mean: 3.00534 2.99919
+S2 Std: 0.153321 0.153065
+S2 Number Of Occurrences: 2003
+S2 Number Of Errors: 0
+S2 Occurrence Probability: 0.0611304
+S2 Error Probability: 6.07847e-11
+S2 Error Probability MC: 0
+S2 Error Vector Magnitude: 0.0510675
+Metrics for symbol 3:
+S3 Ideal: -1 3
+S3 Mean: -0.991972 2.95431
+S3 Std: 0.148284 0.149829
+S3 Number Of Occurrences: 2088
+S3 Number Of Errors: 0
+S3 Occurrence Probability: 0.0637246
+S3 Error Probability: 1.11409e-10
+S3 Error Probability MC: 0
+S3 Error Vector Magnitude: 0.0682404
+Metrics for symbol 4:
+S4 Ideal: 1 3
+S4 Mean: 0.995073 2.9509
+S4 Std: 0.151971 0.150847
+S4 Number Of Occurrences: 2050
+S4 Number Of Errors: 0
+S4 Occurrence Probability: 0.0625649
+S4 Error Probability: 1.93351e-10
+S4 Error Probability MC: 0
+S4 Error Vector Magnitude: 0.0694713
+Metrics for symbol 5:
+S5 Ideal: -3 -3
+S5 Mean: -2.99882 -2.99929
+S5 Std: 0.151199 0.152051
+S5 Number Of Occurrences: 1966
+S5 Number Of Errors: 0
+S5 Occurrence Probability: 0.0600012
+S5 Error Probability: 4.45526e-11
+S5 Error Probability MC: 0
+S5 Error Vector Magnitude: 0.0505301
+Metrics for symbol 6:
+S6 Ideal: 3 -3
+S6 Mean: 3.01231 -3.00301
+S6 Std: 0.153244 0.151047
+S6 Number Of Occurrences: 2106
+S6 Number Of Errors: 0
+S6 Occurrence Probability: 0.0642739
+S6 Error Probability: 3.54043e-11
+S6 Error Probability MC: 0
+S6 Error Vector Magnitude: 0.0507925
+Metrics for symbol 7:
+S7 Ideal: -1 -3
+S7 Mean: -0.995758 -3.05703
+S7 Std: 0.150803 0.150372
+S7 Number Of Occurrences: 2058
+S7 Number Of Errors: 0
+S7 Occurrence Probability: 0.062809
+S7 Error Probability: 3.49337e-11
+S7 Error Probability MC: 0
+S7 Error Vector Magnitude: 0.0697153
+Metrics for symbol 8:
+S8 Ideal: 1 -3
+S8 Mean: 0.99319 -3.05204
+S8 Std: 0.15413 0.152194
+S8 Number Of Occurrences: 1983
+S8 Number Of Errors: 0
+S8 Occurrence Probability: 0.0605201
+S8 Error Probability: 9.30287e-11
+S8 Error Probability MC: 0
+S8 Error Vector Magnitude: 0.0704628
+Metrics for symbol 9:
+S9 Ideal: -3 1
+S9 Mean: -3.05186 0.993241
+S9 Std: 0.150357 0.153082
+S9 Number Of Occurrences: 2088
+S9 Number Of Errors: 0
+S9 Occurrence Probability: 0.0637246
+S9 Error Probability: 6.87938e-11
+S9 Error Probability MC: 0
+S9 Error Vector Magnitude: 0.0698246
+Metrics for symbol 10:
+S10 Ideal: 3 1
+S10 Mean: 2.95447 0.991949
+S10 Std: 0.152797 0.152847
+S10 Number Of Occurrences: 2052
+S10 Number Of Errors: 0
+S10 Occurrence Probability: 0.0626259
+S10 Error Probability: 2.73839e-10
+S10 Error Probability MC: 0
+S10 Error Vector Magnitude: 0.0698741
+Metrics for symbol 11:
+S11 Ideal: -1 1
+S11 Mean: -1.04062 0.937495
+S11 Std: 0.155168 0.1535
+S11 Number Of Occurrences: 2113
+S11 Number Of Errors: 0
+S11 Occurrence Probability: 0.0644876
+S11 Error Probability: 8.33037e-10
+S11 Error Probability MC: 0
+S11 Error Vector Magnitude: 0.163054
+Metrics for symbol 12:
+S12 Ideal: 1 1
+S12 Mean: 0.941789 0.947613
+S12 Std: 0.151387 0.157831
+S12 Number Of Occurrences: 2004
+S12 Number Of Errors: 0
+S12 Occurrence Probability: 0.061161
+S12 Error Probability: 1.22401e-09
+S12 Error Probability MC: 0
+S12 Error Vector Magnitude: 0.164222
+Metrics for symbol 13:
+S13 Ideal: -3 -1
+S13 Mean: -3.04863 -0.995497
+S13 Std: 0.152432 0.153761
+S13 Number Of Occurrences: 1997
+S13 Number Of Errors: 0
+S13 Occurrence Probability: 0.0609473
+S13 Error Probability: 8.28754e-11
+S13 Error Probability MC: 0
+S13 Error Vector Magnitude: 0.070171
+Metrics for symbol 14:
+S14 Ideal: 3 -1
+S14 Mean: 2.95623 -0.999014
+S14 Std: 0.152198 0.150993
+S14 Number Of Occurrences: 2106
+S14 Number Of Errors: 0
+S14 Occurrence Probability: 0.0642739
+S14 Error Probability: 2.01516e-10
+S14 Error Probability MC: 0
+S14 Error Vector Magnitude: 0.0691794
+Metrics for symbol 15:
+S15 Ideal: -1 -1
+S15 Mean: -1.03838 -1.04997
+S15 Std: 0.151323 0.153998
+S15 Number Of Occurrences: 2058
+S15 Number Of Errors: 0
+S15 Occurrence Probability: 0.062809
+S15 Error Probability: 4.55719e-10
+S15 Error Probability MC: 0
+S15 Error Vector Magnitude: 0.158999
+Metrics for symbol 16:
+S16 Ideal: 1 -1
+S16 Mean: 0.947474 -1.04251
+S16 Std: 0.159774 0.153611
+S16 Number Of Occurrences: 2052
+S16 Number Of Errors: 0
+S16 Occurrence Probability: 0.0626259
+S16 Error Probability: 1.7705e-09
+S16 Error Probability MC: 0
+S16 Error Vector Magnitude: 0.163808
+Thu Nov 14 15:29:01 2019
+Modulation: MQAMGray16
+Run Number: 1
+GPRF:
+6103.87 -2.23845
+2.23845 6103.87
+Number Of Symbols: 32766
+Number Of Ignored Symbols: 2
+Number Of Errors: 0
+BER_MC: 0
+SER_MC: 0
+SER_Gauss: 1.36884e-10
+EVM: 0.0690862
+Metrics for symbol 1:
+S1 Ideal: -3 3
+S1 Mean: -3.00616 2.99834
+S1 Std: 0.15129 0.152803
+S1 Number Of Occurrences: 2042
+S1 Number Of Errors: 0
+S1 Occurrence Probability: 0.0623207
+S1 Error Probability: 4.67167e-11
+S1 Error Probability MC: 0
+S1 Error Vector Magnitude: 0.0506926
+Metrics for symbol 2:
+S2 Ideal: 3 3
+S2 Mean: 3.00686 3.00001
+S2 Std: 0.151323 0.150145
+S2 Number Of Occurrences: 2003
+S2 Number Of Errors: 0
+S2 Occurrence Probability: 0.0611304
+S2 Error Probability: 2.79573e-11
+S2 Error Probability MC: 0
+S2 Error Vector Magnitude: 0.0502587
+Metrics for symbol 3:
+S3 Ideal: -1 3
+S3 Mean: -0.990896 2.95619
+S3 Std: 0.14969 0.146277
+S3 Number Of Occurrences: 2088
+S3 Number Of Errors: 0
+S3 Occurrence Probability: 0.0637246
+S3 Error Probability: 5.72653e-11
+S3 Error Probability MC: 0
+S3 Error Vector Magnitude: 0.0676648
+Metrics for symbol 4:
+S4 Ideal: 1 3
+S4 Mean: 0.990078 2.95812
+S4 Std: 0.147628 0.153677
+S4 Number Of Occurrences: 2050
+S4 Number Of Errors: 0
+S4 Occurrence Probability: 0.0625649
+S4 Error Probability: 2.40308e-10
+S4 Error Probability MC: 0
+S4 Error Vector Magnitude: 0.068732
+Metrics for symbol 5:
+S5 Ideal: -3 -3
+S5 Mean: -3.00367 -3.0064
+S5 Std: 0.148751 0.152161
+S5 Number Of Occurrences: 1966
+S5 Number Of Errors: 0
+S5 Occurrence Probability: 0.0600012
+S5 Error Probability: 2.6232e-11
+S5 Error Probability MC: 0
+S5 Error Vector Magnitude: 0.0501727
+Metrics for symbol 6:
+S6 Ideal: 3 -3
+S6 Mean: 3.00459 -3.00307
+S6 Std: 0.153773 0.145652
+S6 Number Of Occurrences: 2106
+S6 Number Of Errors: 0
+S6 Occurrence Probability: 0.0642739
+S6 Error Probability: 3.51039e-11
+S6 Error Probability MC: 0
+S6 Error Vector Magnitude: 0.0499277
+Metrics for symbol 7:
+S7 Ideal: -1 -3
+S7 Mean: -0.995188 -3.05605
+S7 Std: 0.152317 0.148923
+S7 Number Of Occurrences: 2058
+S7 Number Of Errors: 0
+S7 Occurrence Probability: 0.062809
+S7 Error Probability: 5.37592e-11
+S7 Error Probability MC: 0
+S7 Error Vector Magnitude: 0.0696573
+Metrics for symbol 8:
+S8 Ideal: 1 -3
+S8 Mean: 0.991172 -3.05036
+S8 Std: 0.154274 0.150358
+S8 Number Of Occurrences: 1983
+S8 Number Of Errors: 0
+S8 Occurrence Probability: 0.0605201
+S8 Error Probability: 9.8386e-11
+S8 Error Probability MC: 0
+S8 Error Vector Magnitude: 0.069999
+Metrics for symbol 9:
+S9 Ideal: -3 1
+S9 Mean: -3.05512 0.996376
+S9 Std: 0.150688 0.14986
+S9 Number Of Occurrences: 2088
+S9 Number Of Errors: 0
+S9 Occurrence Probability: 0.0637246
+S9 Error Probability: 2.6676e-11
+S9 Error Probability MC: 0
+S9 Error Vector Magnitude: 0.0694226
+Metrics for symbol 10:
+S10 Ideal: 3 1
+S10 Mean: 2.95003 1.00016
+S10 Std: 0.151556 0.145111
+S10 Number Of Occurrences: 2052
+S10 Number Of Errors: 0
+S10 Occurrence Probability: 0.0626259
+S10 Error Probability: 1.87788e-10
+S10 Error Probability MC: 0
+S10 Error Vector Magnitude: 0.0681923
+Metrics for symbol 11:
+S11 Ideal: -1 1
+S11 Mean: -1.04337 0.937234
+S11 Std: 0.151853 0.150683
+S11 Number Of Occurrences: 2113
+S11 Number Of Errors: 0
+S11 Occurrence Probability: 0.0644876
+S11 Error Probability: 4.01887e-10
+S11 Error Probability MC: 0
+S11 Error Vector Magnitude: 0.160567
+Metrics for symbol 12:
+S12 Ideal: 1 1
+S12 Mean: 0.949172 0.945808
+S12 Std: 0.146855 0.149706
+S12 Number Of Occurrences: 2004
+S12 Number Of Errors: 0
+S12 Occurrence Probability: 0.061161
+S12 Error Probability: 1.85282e-10
+S12 Error Probability MC: 0
+S12 Error Vector Magnitude: 0.157284
+Metrics for symbol 13:
+S13 Ideal: -3 -1
+S13 Mean: -3.05106 -0.98901
+S13 Std: 0.147533 0.144723
+S13 Number Of Occurrences: 1997
+S13 Number Of Errors: 0
+S13 Occurrence Probability: 0.0609473
+S13 Error Probability: 6.07579e-12
+S13 Error Probability MC: 0
+S13 Error Vector Magnitude: 0.0673921
+Metrics for symbol 14:
+S14 Ideal: 3 -1
+S14 Mean: 2.94855 -0.998419
+S14 Std: 0.15014 0.151908
+S14 Number Of Occurrences: 2106
+S14 Number Of Errors: 0
+S14 Occurrence Probability: 0.0642739
+S14 Error Probability: 1.78893e-10
+S14 Error Probability MC: 0
+S14 Error Vector Magnitude: 0.0694591
+Metrics for symbol 15:
+S15 Ideal: -1 -1
+S15 Mean: -1.04536 -1.04428
+S15 Std: 0.154013 0.14757
+S15 Number Of Occurrences: 2058
+S15 Number Of Errors: 0
+S15 Occurrence Probability: 0.062809
+S15 Error Probability: 3.38546e-10
+S15 Error Probability MC: 0
+S15 Error Vector Magnitude: 0.157311
+Metrics for symbol 16:
+S16 Ideal: 1 -1
+S16 Mean: 0.943088 -1.04416
+S16 Std: 0.150552 0.149222
+S16 Number Of Occurrences: 2052
+S16 Number Of Errors: 0
+S16 Occurrence Probability: 0.0626259
+S16 Error Probability: 2.64708e-10
+S16 Error Probability MC: 0
+S16 Error Vector Magnitude: 0.158272
+Thu Nov 14 15:29:01 2019
+Modulation: MQAMGray16
+Run Number: 1
+GPRF:
+6105.24 0.00726618
+-0.00726618 6105.24
+Number Of Symbols: 32766
+Number Of Ignored Symbols: 2
+Number Of Errors: 0
+BER_MC: 0
+SER_MC: 0
+SER_Gauss: 1.43662e-10
+EVM: 0.0687411
+Metrics for symbol 1:
+S1 Ideal: -3 3
+S1 Mean: -3.00665 3.00964
+S1 Std: 0.151084 0.146414
+S1 Number Of Occurrences: 2042
+S1 Number Of Errors: 0
+S1 Occurrence Probability: 0.0623207
+S1 Error Probability: 1.61086e-11
+S1 Error Probability MC: 0
+S1 Error Vector Magnitude: 0.0496538
+Metrics for symbol 2:
+S2 Ideal: 3 3
+S2 Mean: 3.00605 2.999
+S2 Std: 0.15117 0.149757
+S2 Number Of Occurrences: 2003
+S2 Number Of Errors: 0
+S2 Occurrence Probability: 0.0611304
+S2 Error Probability: 2.68732e-11
+S2 Error Probability MC: 0
+S2 Error Vector Magnitude: 0.0501634
+Metrics for symbol 3:
+S3 Ideal: -1 3
+S3 Mean: -0.992555 2.95484
+S3 Std: 0.144632 0.146551
+S3 Number Of Occurrences: 2088
+S3 Number Of Errors: 0
+S3 Occurrence Probability: 0.0637246
+S3 Error Probability: 4.1261e-11
+S3 Error Probability MC: 0
+S3 Error Vector Magnitude: 0.0666859
+Metrics for symbol 4:
+S4 Ideal: 1 3
+S4 Mean: 0.995606 2.95118
+S4 Std: 0.149628 0.146773
+S4 Number Of Occurrences: 2050
+S4 Number Of Errors: 0
+S4 Occurrence Probability: 0.0625649
+S4 Error Probability: 6.95031e-11
+S4 Error Probability MC: 0
+S4 Error Vector Magnitude: 0.068053
+Metrics for symbol 5:
+S5 Ideal: -3 -3
+S5 Mean: -2.99824 -2.99881
+S5 Std: 0.148286 0.148775
+S5 Number Of Occurrences: 1966
+S5 Number Of Errors: 0
+S5 Occurrence Probability: 0.0600012
+S5 Error Probability: 1.78752e-11
+S5 Error Probability MC: 0
+S5 Error Vector Magnitude: 0.0495003
+Metrics for symbol 6:
+S6 Ideal: 3 -3
+S6 Mean: 3.01262 -3.00358
+S6 Std: 0.149151 0.14725
+S6 Number Of Occurrences: 2106
+S6 Number Of Errors: 0
+S6 Occurrence Probability: 0.0642739
+S6 Error Probability: 1.0333e-11
+S6 Error Probability MC: 0
+S6 Error Vector Magnitude: 0.0494861
+Metrics for symbol 7:
+S7 Ideal: -1 -3
+S7 Mean: -0.997676 -3.05696
+S7 Std: 0.147054 0.148171
+S7 Number Of Occurrences: 2058
+S7 Number Of Errors: 0
+S7 Occurrence Probability: 0.062809
+S7 Error Probability: 1.09964e-11
+S7 Error Probability MC: 0
+S7 Error Vector Magnitude: 0.0684165
+Metrics for symbol 8:
+S8 Ideal: 1 -3
+S8 Mean: 0.994667 -3.05246
+S8 Std: 0.150709 0.148223
+S8 Number Of Occurrences: 1983
+S8 Number Of Errors: 0
+S8 Occurrence Probability: 0.0605201
+S8 Error Probability: 3.3926e-11
+S8 Error Probability MC: 0
+S8 Error Vector Magnitude: 0.0688777
+Metrics for symbol 9:
+S9 Ideal: -3 1
+S9 Mean: -3.05172 0.994832
+S9 Std: 0.146957 0.149246
+S9 Number Of Occurrences: 2088
+S9 Number Of Errors: 0
+S9 Occurrence Probability: 0.0637246
+S9 Error Probability: 2.1779e-11
+S9 Error Probability MC: 0
+S9 Error Vector Magnitude: 0.0682284
+Metrics for symbol 10:
+S10 Ideal: 3 1
+S10 Mean: 2.95395 0.992102
+S10 Std: 0.148474 0.150049
+S10 Number Of Occurrences: 2052
+S10 Number Of Errors: 0
+S10 Occurrence Probability: 0.0626259
+S10 Error Probability: 9.4151e-11
+S10 Error Probability MC: 0
+S10 Error Vector Magnitude: 0.0683521
+Metrics for symbol 11:
+S11 Ideal: -1 1
+S11 Mean: -1.04087 0.936238
+S11 Std: 0.151369 0.149456
+S11 Number Of Occurrences: 2113
+S11 Number Of Errors: 0
+S11 Occurrence Probability: 0.0644876
+S11 Error Probability: 3.08475e-10
+S11 Error Probability MC: 0
+S11 Error Vector Magnitude: 0.159631
+Metrics for symbol 12:
+S12 Ideal: 1 1
+S12 Mean: 0.940563 0.948193
+S12 Std: 0.148891 0.153413
+S12 Number Of Occurrences: 2004
+S12 Number Of Errors: 0
+S12 Occurrence Probability: 0.061161
+S12 Error Probability: 4.56546e-10
+S12 Error Probability MC: 0
+S12 Error Vector Magnitude: 0.161087
+Metrics for symbol 13:
+S13 Ideal: -3 -1
+S13 Mean: -3.04856 -0.99608
+S13 Std: 0.150189 0.153304
+S13 Number Of Occurrences: 1997
+S13 Number Of Errors: 0
+S13 Occurrence Probability: 0.0609473
+S13 Error Probability: 7.13607e-11
+S13 Error Probability MC: 0
+S13 Error Vector Magnitude: 0.0695769
+Metrics for symbol 14:
+S14 Ideal: 3 -1
+S14 Mean: 2.95534 -0.998535
+S14 Std: 0.150112 0.147749
+S14 Number Of Occurrences: 2106
+S14 Number Of Errors: 0
+S14 Occurrence Probability: 0.0642739
+S14 Error Probability: 1.11219e-10
+S14 Error Probability MC: 0
+S14 Error Vector Magnitude: 0.0680726
+Metrics for symbol 15:
+S15 Ideal: -1 -1
+S15 Mean: -1.0379 -1.05058
+S15 Std: 0.148912 0.150154
+S15 Number Of Occurrences: 2058
+S15 Number Of Errors: 0
+S15 Occurrence Probability: 0.062809
+S15 Error Probability: 1.8323e-10
+S15 Error Probability MC: 0
+S15 Error Vector Magnitude: 0.156035
+Metrics for symbol 16:
+S16 Ideal: 1 -1
+S16 Mean: 0.94678 -1.04211
+S16 Std: 0.156506 0.14998
+S16 Number Of Occurrences: 2052
+S16 Number Of Errors: 0
+S16 Occurrence Probability: 0.0626259
+S16 Error Probability: 8.21559e-10
+S16 Error Probability MC: 0
+S16 Error Vector Magnitude: 0.160578
